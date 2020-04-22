@@ -1,4 +1,7 @@
 # Monocle
+
+[![Join the chat at https://gitter.im/Spiffily/monocle](https://badges.gitter.im/Spiffily/monocle.svg)](https://gitter.im/Spiffily/monocle?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A simple but powerful Note taking app with a similar layout to OneNote back when it was good.
 
 # Gtk Docs
